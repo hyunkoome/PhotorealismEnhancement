@@ -18,3 +18,4 @@ alt="Video" width="240" height="180" border="10" /></a>
 
 ## I tried to fix and run this codes.
 
+1. Set up the environments to develop as follows: [here](./docs/01_setup_dev_env.md)
